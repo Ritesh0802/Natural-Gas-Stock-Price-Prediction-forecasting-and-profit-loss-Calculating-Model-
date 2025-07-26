@@ -66,14 +66,7 @@ The datasets used in this project are publicly available as part of **JP Morgan 
 ---
 
 ## 📬 Contact  
-🔗 **LinkedIn:** [Tanishq Chandravanshi](https://www.linkedin.com/in/tanishq-chandravanshi-b6a026213/)  
-📧 **Email:** Tanishqchandravanshi@gmail.com 
-
----
-
-## 🔗 Additional Links
-
-
-Portfolio Website: [Tanishq Chandravanshi](https://tanishqchandravanshi.netlify.app/)
+🔗 **LinkedIn:** [Tanishq Chandravanshi](https://www.linkedin.com/in/ritesh-prasad-103103228/)  
+📧 **Email:** riteshprasad0802@gmail.com 
 
 ---
